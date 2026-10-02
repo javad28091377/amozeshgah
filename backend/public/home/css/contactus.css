@@ -1,0 +1,27 @@
+.boxcontact
+{
+    padding: 1%;
+    border-radius: 7px;
+    background-color: #e1e1e1;
+}
+.contact
+{
+    background-color: #fff;
+    border-radius: 7px;
+    margin-top: 1%;
+    padding: 2% 0px;
+}
+.contact img
+{
+    transition: all 1s;
+    transform: translateY(0px) rotate(0deg);
+}
+.contact img:hover
+{
+    transition: all 1s;
+    transform: translateY(-5px) rotate(360deg);
+}
+.map
+{
+    margin-top: 2%;
+}

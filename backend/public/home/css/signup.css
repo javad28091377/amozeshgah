@@ -1,0 +1,16 @@
+.boxform
+{
+    padding: 1%;
+    border-radius: 7px;
+    background-color: #e1e1e1;
+}
+.boxform input[type="checkbox"]
+{
+    width: 30px;
+    height: 25px;
+    border: 1px solid #000;
+}
+textarea
+{
+    height: 150px;
+}
